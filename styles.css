@@ -1,0 +1,7 @@
+.result {
+    width: "200px";
+    color:white;
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
